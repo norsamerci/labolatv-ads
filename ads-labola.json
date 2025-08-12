@@ -1,6 +1,6 @@
 {
-  "atas": "asdfasds",
-  "tengah": "dfsdfsdf",
-  "bawah": "dfsdfdsf",
-  "linkRedirect": "dsfsdfdsf"
+  "atas": "<div class=\"ad-banner\">[Iklan Atas 1]</div>",
+  "tengah": "<div class=\"ad-banner\">[Iklan Atas 2]</div>",
+  "bawah": "<div class=\"ad-banner\">[Iklan Atas 3]</div>",
+  "linkRedirect": "https://jkt48.com"
 }
